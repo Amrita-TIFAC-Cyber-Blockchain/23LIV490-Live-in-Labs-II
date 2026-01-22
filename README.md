@@ -47,6 +47,10 @@ Pre-Requisite(s): 23LIV30 - Live-in-Labs® I
 
 | Course Start | 24 - Dec - 2025 | Deadline | 
 |--------------|-----------------|:--------:|
+| Workshop: Problem Tree and Statement Refinement | 24 - Dec - 2025 and 25 - Dec - 2025  |  ![](https://img.shields.io/badge/Completed-darkgreen)  |
+| Workshop: Problem Tree and Statement Refinement | 24 - Dec - 2025 and 25 - Dec - 2025  |  ![](https://img.shields.io/badge/Completed-darkgreen)  |
+| Workshop: Casual Factors and Critical Path  | 26 - Dec - 2025  |  ![](https://img.shields.io/badge/Completed-darkgreen)  |
+| Workshop: Needs Document  | 27 - Dec - 2025 and 28 - Dec - 2025  |  ![](https://img.shields.io/badge/Completed-darkgreen)  |
 
 ### Reference(s)
 
